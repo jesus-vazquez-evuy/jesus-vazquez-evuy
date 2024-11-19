@@ -5,8 +5,8 @@
   alt="header" style="width: 100%;"/>
 </div>
 
-👨‍💻 **Frontend Developer** apasionado por crear experiencias web atractivas y funcionales.  
-✨ Me encanta aprender nuevas tecnologías y afrontar retos en el desarrollo de software.
+👨‍💻 **Frontend Developer** passionate about creating engaging and functional web experiences.  
+✨ I love learning new technologies and tackling challenges in software development.
 
 <!-- TECHNOLOGY -->
 <div align="center" width="100">
@@ -61,16 +61,16 @@
 
 ---
 
-## 🚀 Sobre mí  
+## 🚀 About Me
 
-- 💡 Me especializo en el desarrollo frontend con un enfoque en calidad y eficiencia.  
-- 🔍 Busco siempre mejorar y aprender cosas nuevas.  
-- 🌱 Actualmente perfeccionando mis habilidades en desarrollo web avanzado.  
+- 💡 I specialize in frontend development with a focus on quality and efficiency.
+- 🔍 I'm always looking to improve and learn new things. 
+- 🌱 Currently honing my skills in advanced web development.
 
 ---
 
 <div align="center">
-  <h3>Conectamos</h3>
+  <h3>Let's connect</h3>
   <a href="https://www.linkedin.com/in/jesus-vazquez-evuy-software-developer/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60px" alt="LinkedIn">
   </a>
